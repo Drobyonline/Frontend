@@ -1,6 +1,6 @@
 {
   "name": "dynamic_form",
-  "proxy": "https://dynamicforms-0wz2.onrender.com/",
+  "proxy": "https://backend-n0ko.onrender.com/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
